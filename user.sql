@@ -1,0 +1,16 @@
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (1, 'a', 'a', 'a@qq.com', '086undefined', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (2, 'aa', 'aa', 'a@qq.com@qq.com', '08615587257427', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (3, 'hggj', '12', '12@163.com', '086undefined', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (4, 'hggjg', '12', '12 @gmail.com', '086undefined', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (5, 'hggjgf', '12', '1212@163.com', '086undefined', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (6, 'hggjgff', '12', '1222@163.com', '086undefined', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (7, 'hggjgfff', '12', '12 @gmail.com', '086undefined', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (8, 'hggjgffff', '12', '12 @gmail.com', '086undefined', 0, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (9, 'b', NULL, '3', NULL, NULL, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (10, 'c', NULL, '3', NULL, NULL, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (11, 'd', NULL, '3', NULL, NULL, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (12, 'e', NULL, '3', NULL, NULL, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (13, 'f', NULL, '3', NULL, NULL, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (14, 'g', NULL, '3', NULL, NULL, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (15, 'h', NULL, '3', NULL, NULL, NULL, NULL);
+INSERT INTO `user`(`id`, `username`, `password`, `email`, `phone`, `gender`, `birthday`, `address`) VALUES (16, 'i', NULL, '3', NULL, NULL, NULL, NULL);
